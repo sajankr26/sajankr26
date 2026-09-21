@@ -15,8 +15,7 @@ I'm a second-year B.Tech AI & Data Science student at IIMT College, Greater Noid
 - **Languages:** Python, SQL, HTML, CSS, JavaScript
 - **Libraries:** Pandas, Matplotlib, PyQt6, Tkinter
 - **Database:** MySQL, Supabase
-- **Tools:** Git & GitHub
-
+- 
 ## 🚀 Projects
 - 📊 Excel File Analyser
 - 💊 Pharmacy Management System
